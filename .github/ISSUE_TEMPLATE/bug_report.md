@@ -4,37 +4,26 @@ about: Create a report to help us improve
 title: ''
 labels: ''
 assignees: ''
-
 ---
-**Software:**
 
+**Software**
+Where the bug was found.
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Steps To Reproduce**
+Step-by-step instructions that allow others to reproduce the bug.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+a Screenshot showing a photo or video recording of the bug happening.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**Device**
+what operating system/browser/mobile phone you were using.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**Severity**
+Assign a severity label to the github issue with a value of either, high,
+medium or low.
 
 **Additional context**
 Add any other context about the problem here.

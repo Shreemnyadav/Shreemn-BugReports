@@ -1,1 +1,1 @@
-# Shreemn-BugReports
+This repository was made by me for my SEF assignment. I made four issues for the report and two templates for this assignment. Two of them refer to the bug report that details the 360-degree view and sniping bugs in "Free Fire Game".The other two are feature requests for the same game; I've asked to see "pay to win" eliminated and for improved gameplay.I've been playing this game for a very long time, so I consider myself to be quite knowledgeable about it.
